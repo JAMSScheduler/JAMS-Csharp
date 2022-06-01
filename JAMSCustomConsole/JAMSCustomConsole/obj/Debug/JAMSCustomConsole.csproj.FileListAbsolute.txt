@@ -1,0 +1,15 @@
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\JAMSCustomConsole.exe.config
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\JAMSCustomConsole.exe
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\JAMSCustomConsole.pdb
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\JAMSShr.dll
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\JAMSBaseTypes.dll
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\Rebex.Networking.dll
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\Rebex.Common.dll
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\JAMSShr.pdb
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\bin\Debug\JAMSBaseTypes.pdb
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\obj\Debug\JAMSCustomConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\obj\Debug\JAMSCustomConsole.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\obj\Debug\JAMSCustomConsole.csproj.CopyComplete
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\obj\Debug\JAMSCustomConsole.exe
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\obj\Debug\JAMSCustomConsole.pdb
+C:\Users\Daniel.fowle\source\repos\JAMSCustomConsole\JAMSCustomConsole\obj\Debug\JAMSCustomConsole.csproj.AssemblyReference.cache
